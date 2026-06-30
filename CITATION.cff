@@ -1,0 +1,25 @@
+cff-version: "1.2.0"
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "MakoBubbleCam-UG"
+version: "0.1.0"
+date-released: "2026-06-30"
+
+authors:
+  - family-names: "Corona Arroyo"
+    given-names: "Mario Alberto"
+    affiliation: "Universidad de Guanajuato"
+
+repository-code: "https://github.com/maxcic86/MakoBubbleCam-UG"
+
+abstract: "Camera-control and image-acquisition software for bubble-mineral interaction studies using Allied Vision Mako cameras."
+
+keywords:
+  - Mako camera
+  - Allied Vision
+  - Vimba
+  - VmbPy
+  - image acquisition
+  - bubble imaging
+  - bubble-mineral interaction
+  - shadow imaging
+  - flotation
