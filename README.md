@@ -27,6 +27,19 @@ The tool was developed as part of an integrated force–image methodology for st
 - Automatic preview video generation after recording.
 - Support for transmitted-light shadow imaging.
 
+## Running the software on Windows
+
+1. Install Python 3.
+2. Install Allied Vision Vimba X and verify that the Mako camera is detected.
+3. Install the Python dependencies:
+
+```bash
+pip install -r requirements.txt
+
+4. Run the software using:
+
+run_mako_bubble_cam.bat
+
 ## Camera and acquisition configuration
 
 The software was developed for a Mako U-029B USB3 Vision camera from Allied Vision. The optical system was configured in transmitted-light mode, with the light source placed opposite to the camera so that the bubble appeared as a dark silhouette.
